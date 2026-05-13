@@ -1,0 +1,1 @@
+export { default } from "file:///F:/xiangmu/pythonProject6%EF%BC%88ruibo%EF%BC%89/%E8%B4%A2%E5%8A%A1%E6%99%BA%E8%83%BD%E4%BD%93/web/node_modules/@nuxt/vite-builder/dist/vite-node-runner.mjs"
